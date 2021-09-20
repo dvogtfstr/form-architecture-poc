@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+}
+
+.Field {
+  display: block;
+  margin: 1rem 0;
+}
+
+.Field__error {
+  color: red;
+  margin: 0;
+  padding: 0;
+}
+
+.Spacer {
+  padding: 1rem 0;
+}
+
+.Spacer-hr {
+  padding: 0 1rem;
+}
+
+.Box {
+  background-color: #e9e9e9;
+  padding: 0.25rem;
+}
+
+.Row {
+  display: flex;
+  align-items: center;
+}
